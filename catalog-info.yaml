@@ -3,8 +3,9 @@ kind: Component
 metadata:
   name: ado1
   annotations:
-    github.com/project-slug: ankur29592/ado1
+    backstage.io/kubernetes-id: ado1
+    devops.jio.com/project-repo: T2R/T2R
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
